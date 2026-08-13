@@ -1,3 +1,6 @@
+body{
+  text-align:center;
+}
 #calculator{
   border: 1px solid rgb(44, 42, 42);
   border-radius: 5px;
